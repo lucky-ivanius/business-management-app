@@ -8,4 +8,4 @@ This is a comprehensive business management application that helps companies man
 - User Management: Manage user accounts, roles, and permissions to control access to sensitive information.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/lucky-ivanius/business-management-app/main/LICENSE) file for details.
